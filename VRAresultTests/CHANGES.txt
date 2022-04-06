@@ -1,0 +1,2 @@
+0.1.0, 2/1/22 -- Initial release.
+0.2.0 2/22/22 -- Fixed probelms with naming and added whole map function, and non coliltion party output to txt log
